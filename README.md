@@ -1,2 +1,3 @@
 # aws-practice
-practice for AWS
+
+This repository will hold all of my practice on AWS infrastructure.
